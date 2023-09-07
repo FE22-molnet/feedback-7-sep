@@ -1,0 +1,19 @@
+{
+  "name": "feedback-7-sep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FE22-molnet/feedback-7-sep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FE22-molnet/feedback-7-sep/issues"
+  },
+  "homepage": "https://github.com/FE22-molnet/feedback-7-sep#readme"
+}
